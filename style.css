@@ -62,3 +62,8 @@ p {
   border: 1px solid #3b3b3b;
   max-width: 500px;
 }
+
+h1 {
+  margin: auto;
+  padding: 5px;
+}
