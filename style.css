@@ -2,3 +2,25 @@ body {
   background-color: rgb(178, 254, 254);
   color: black;
 }
+
+figure {
+  border: thin silver solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 500px;
+  margin: auto;
+}
+
+img {
+  max-width: 500px;
+  max-height: 300px;
+}
+
+figcaption {
+  background-color: #3b3b3b;
+  color: white;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
